@@ -1,0 +1,10 @@
+{
+  "Name": "TC Example Mod",
+  "Author": "",
+  "Version": "v1.0",
+  "Url": "https://www.google.com",
+  "UniqueIdentifier": "f8806e7d-8022-470e-921c-56f80792b8a6",
+  "PathToDLL": "TCModExample.dll",
+  "DialoguePaths": [],
+  "CustomEquipment": []
+}
