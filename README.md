@@ -1,6 +1,6 @@
 How to load this test mod:
 
-Step 1: Download the TC_Test_Mod.zip from [here](https://github.com/AnduoGames/ThirdCrisisExampleMod/releases/tag/v1.0.0).
+Step 1: Download and Unzip the TC_Test_Mod.zip from [here](https://github.com/AnduoGames/ThirdCrisisExampleMod/releases/tag/v1.0.0).
 
 Step 2:
 
